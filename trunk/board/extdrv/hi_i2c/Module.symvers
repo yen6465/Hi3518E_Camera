@@ -1,0 +1,5 @@
+0x00000000	HI_I2C_WriteConfig	/home/pub/platform_h3/mpp/extdrv/hi3518/hi_i2c/hi_i2c	(unknown)
+0x00000000	HI_I2C_Read	/home/pub/platform_h3/mpp/extdrv/hi3518/hi_i2c/hi_i2c	(unknown)
+0x00000000	I2C_Open	/home/pub/platform_h3/mpp/extdrv/hi3518/hi_i2c/hi_i2c	(unknown)
+0x00000000	I2C_Close	/home/pub/platform_h3/mpp/extdrv/hi3518/hi_i2c/hi_i2c	(unknown)
+0x00000000	HI_I2C_Write	/home/pub/platform_h3/mpp/extdrv/hi3518/hi_i2c/hi_i2c	(unknown)

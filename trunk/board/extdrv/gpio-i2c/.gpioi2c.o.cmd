@@ -1,0 +1,1 @@
+cmd_/home/pub/platform_h3/mpp/extdrv/hi3518/gpio-i2c/gpioi2c.o := arm-hisiv100nptl-linux-ld -EL    -r -o /home/pub/platform_h3/mpp/extdrv/hi3518/gpio-i2c/gpioi2c.o /home/pub/platform_h3/mpp/extdrv/hi3518/gpio-i2c/gpio_i2c.o 

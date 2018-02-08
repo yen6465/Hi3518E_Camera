@@ -1,0 +1,3 @@
+0x00000000	gpio_i2c_read	/home/pub/platform_h3/mpp/extdrv/hi3518/gpio-i2c/gpioi2c	(unknown)
+0x00000000	gpio_i2c_write	/home/pub/platform_h3/mpp/extdrv/hi3518/gpio-i2c/gpioi2c	(unknown)
+0x00000000	siiReadSegmentBlockEDID	/home/pub/platform_h3/mpp/extdrv/hi3518/gpio-i2c/gpioi2c	(unknown)
